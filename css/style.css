@@ -1,0 +1,843 @@
+/*-- header area start --*/
+
+.header{
+	background: #0d2481;
+	padding: 0px 0;
+	overflow-x: hidden;
+}
+
+.container-fluid{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.logo-menu{
+	display: flex;
+}
+
+.logo img{
+	width: 160px;
+}
+
+.menu ul{
+	list-style-type: none;
+	padding: 0;
+	margin-top: 10px;
+}
+
+.menu ul li{
+	display: inline-block;
+	padding: 0px 20px;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 13px;
+}
+
+.search-Contact{
+	display: flex;
+	margin-right: 80px;
+	margin-top: 10px;
+}
+
+.phone{
+	color: #fff;
+	margin-right: 25px;
+}
+
+.phone span i{
+	padding: 0 10px;
+	font-size: 15px;
+}
+
+.Contact{
+	margin-right: 25px;
+}
+
+.Contact a{
+	text-decoration: none;
+	font-size: 13px;
+	color: #333;
+	background: #fff;
+	padding: 5px 15px;
+	border-radius: 2px;
+}
+
+.logo-search{
+	display: flex;
+	justify-content: space-between;
+}
+
+.search span i{
+	font-size: 15px;
+	color: #fff;
+}
+
+/*-- header area end --*/
+
+/*-- hero area start --*/
+.hero{
+	background: #dcdee1;
+	padding: 160px;
+}
+
+.Business{
+	background: #fff;
+	width: 600px;
+	border-top: 3px solid #0d2481;
+	padding: 41px 0;
+}
+
+.Business h2{
+	font-size: 36px;
+	color: #333;	
+	margin-left: 50px;
+}
+
+.Business p{
+	font-size: 11px;
+	color: #333;
+	margin-top: 15px;
+	margin-left: 50px;
+}
+
+.Business a{
+	font-size: 13px;
+	color: #fff;
+	background: #0d2481;
+	padding: 5px 10px;
+	text-decoration: none;
+	margin-left: 50px;
+}
+
+.Business img{
+	width: 35px;
+	margin-left: 25px;
+}
+
+
+/*-- hero area end --*/
+
+/*-- mitchell area start --*/
+
+.mitchell-wrapper{
+	text-align: center;
+}
+
+.mitchell-wrapper img{
+	width: 150px;
+	padding: 20px 25px;
+}
+
+/*-- mitchell area end --*/
+
+
+/*-- services area start --*/
+
+.services{
+	background: #fff;
+}
+
+.left{
+	background: #1e2329;
+}
+
+.right{
+	background: #0d2481;
+	padding: 50px;
+}
+
+.our-services h3{
+	font-size: 16px;
+	color: #98a5d9;
+	text-transform: uppercase;
+}
+
+.our-services h2{
+	font-size: 32px;
+	color: #fff;
+}
+
+.Illustrations-Design{
+	margin-top: 60px;
+}
+
+.Illustrations{
+	background: #1a348a;
+	border-top: 2px solid #fff;
+	padding: 15px 0;
+	border-radius: 3px;
+}
+
+.Illustrations ul li h2{
+	font-size: 14px;
+	color: #fff;
+}
+
+.Illustrations ul{
+		margin-left: -12px;
+		color: #fff;
+}
+
+.Illustrations p{
+	font-size: 12px;
+	color: #98a5d9;
+	margin-left: 25px;
+}
+
+.Motion{
+	margin-top: 10px;
+}
+
+.Motion ul{
+	color: #98a5d9;
+	margin-left: -12px;
+}
+
+.Motion ul li{
+	margin-top: 5px;
+}
+
+.Motion ul li a{
+	font-size: 14px;
+	color: #98a5d9;
+	text-decoration: none;
+}
+
+.Design{
+	margin-top: 10px;
+}
+
+.Design ul{
+	color: #98a5d9;
+	font-size: 15px;
+}
+
+.Design ul li{
+	margin-top: 10px;
+}
+
+.Design ul li a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #98a5d9;
+}
+
+.Challenges{
+	margin-top: 20px;
+}
+
+.Challenges a{
+	background: #0c2175;
+	font-size: 13px;
+	color: #98a5d9;
+	padding: 6px 18px;
+	text-decoration: none;
+}
+
+.Challenges span{
+	color: #fff;
+}
+
+.Challenges img{
+	width: 35px;
+	margin-left: 35px;
+}
+
+/*-- services area end --*/
+
+/*-- work area start --*/
+.work{
+	background: #fff;
+	padding: 70px 0;
+	overflow-x: hidden;
+}
+
+.See{
+	margin-left: 60px;
+	font-size: 15px;
+	margin-top: 65px;
+}
+
+.See h3 img{
+	width: 30px;
+	margin-right: 5px;
+	margin-left: 0;
+}
+
+.See h3{
+	font-size: 18px;
+	color: #4d5b6c;
+}
+
+.See h2{
+	font-size: 30px;	
+	color: #1e2329;
+}
+
+.See p{
+	font-size: 12px;	
+	color: #4c5b6d;
+}
+
+.See a{
+	text-decoration: none;
+	background: #0c2175;
+	color: #fff;
+	padding: 5px 15px;
+	margin-top: 15px;
+	display: inline-block;
+	font-size: 13px;
+}
+
+.See img{
+	width: 30px;
+	margin-left: 25px;
+}
+
+.Project{
+	padding-right: 0;
+	padding-left: 103px;
+}
+
+.Project img{
+	margin-left: 22px;
+}
+
+/*-- work area end --*/
+
+/*-- Making  area start --*/
+
+.Making{
+	padding: 50px 0;
+}
+.vidio{
+	background: #fff;
+	box-shadow: 7px 20px 10px 0px #f3f9ff;
+}
+
+.vidio iframe {
+	width: 100%;
+	height: 250px;
+	margin-left: 0;
+}
+
+.vidio p{
+	font-size: 17px;
+	color: #4d5b6c;	
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+.vidio h2{
+	font-size: 25px;
+	margin-left: 20px;
+	color: #1e2329;
+	padding: 12px 0;
+}
+
+.vidio span{
+	font-size: 12px;
+	color: #0d2481;
+}
+
+.all-services{
+	padding-left: 40px;
+}
+
+.all-services h3{
+	font-size: 12px;
+	color: #4d5b6c;
+	margin-left: 30px;
+}
+
+.all-services h2{
+	font-size: 30px;
+	color: #1e2329;
+}
+
+.all-services p{
+	font-size: 12px;
+	color: #4c5b6d;
+	margin-top: 17px;
+}
+
+.Product-Branding{
+	padding-left: 40px;
+}
+
+.Product{
+	margin-top: 50px;
+}
+
+.Product img{
+	width: 40px;
+}
+
+.Product h2{
+	font-size: 14px;
+	margin-top: 5px;
+	color: #1e2329;
+}
+
+.Product p{
+	font-size: 12px;
+	color: #4d5b6c;
+}
+
+.Custom{
+	margin-top: 50px;
+}
+
+.Custom img{
+	width: 40px;
+}
+
+.Custom h2{
+	font-size: 14px;
+	margin-top: 5px;
+	color: #1e2329;
+}
+
+.Custom p{
+	font-size: 12px;
+	color: #4d5b6c;
+}
+
+.Branding {
+	margin-top: 50px;
+}
+
+.Branding img{
+	width: 40px;
+}
+
+.Branding h2{
+	font-size: 14px;
+	margin-top: 10px;
+	color: #1e2329;
+}
+
+.Branding p{
+	font-size: 12px;
+	color: #4d5b6c;
+}
+
+.Rapid {
+	margin-top: 50px;
+}
+
+.Rapid img{
+	width: 40px;
+}
+
+.Rapid h2{
+	font-size: 14px;
+	margin-top: 6px;
+	color: #1e2329;
+}
+
+.Rapid p{
+	font-size: 12px;
+	color: #4d5b6c;
+}
+
+/*-- Making  area end --*/
+
+/*-- Recently  area start --*/
+.Recently{
+	background: #fff;
+	padding: 35px;
+}
+
+.Recently-wrapper h3 img{
+	width: 35px;
+	padding-right: 5px;
+}
+
+.Recently-wrapper h3{
+	font-size: 15px;
+	color: #4d5b6c;
+	text-transform: uppercase;
+}
+
+.Recently-wrapper h2{
+	font-size: 28px;
+	color: #1e2329;
+}
+
+.Recently-wrapper p{
+	font-size: 11px;
+	color: #4c5b6d;
+}
+/*-- Recently  area end --*/
+
+/*-- Technology area start --*/
+.Technology{
+	padding: 50px;
+	background: #fff;
+}
+
+.Wireless h3{
+	font-size: 10px;
+	color: #4c5b6d;
+	margin-left: 30px;
+}
+
+.Wireless h2{
+	font-size: 20px;
+	color: #1e2329;
+	padding: 0px 0;
+}
+
+.Changing{
+	margin-top: 35px;
+}
+
+.Changing img{
+	width: 100%;
+}
+
+.Changing p{
+	font-size: 10px;
+	margin-top: 25px;
+	color: #4c5b6d;
+}
+
+.Changing a{
+	font-size: 13px;
+	color: #0d2481;
+	text-decoration: none;
+}
+
+.Changing a img{
+	width: 20px;
+	margin-left: 5px;
+}
+
+.Ways{
+	padding-left: 28px;
+}
+
+.Ways h3{
+	font-size: 10px;
+	color: #4c5b6d;
+	margin-left: 35px;
+}
+
+.Ways h2{
+	font-size: 23px;
+	color: #1e2329;
+}
+
+.item-top{
+	display: flex;
+	margin-top: 30px;
+}
+
+.left-item img{
+	width: 225px;
+}
+
+.right-item{
+	margin-left: 30px;
+}
+
+.right-item p{
+	font-size: 12px;
+	color: #4c5b6d;
+}
+
+.right-item a{
+	font-size: 15px;
+	color: #0d2481;
+	text-decoration: none;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.right-item a img{
+	width: 25px;
+	margin-left: 5px;
+}
+
+.item-botton{
+	padding: 50px 0;
+}
+
+.item-botton h3{
+	font-size: 11px;
+	color: #4c5b6d;
+	margin-left: 0;
+
+}
+
+.item-botton h3 img{
+	width: 45px;
+	padding-right: 6px;
+}
+
+.item-botton h2{
+	font-size: 20px;
+	color: #1e2329;
+}
+
+.More{
+	text-align: right;
+	padding: 35px 0;
+}
+
+.More a{
+	font-size: 12px;
+	color: #fff;
+	background: #0d2481;
+	padding: 7px 15px;
+	text-decoration: none; 
+}
+
+.More a img{
+	width: 45px;
+	padding-left: 10px;
+}
+/*-- Technology area end --*/
+
+/*-- Reach area start --*/
+.Reach{
+	background: url(../img/bag.png);
+	padding: 65px 0;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.Reach h3{
+	font-size: 13px;
+	color: #98a5d9;	
+	text-transform: uppercase;
+}
+
+.Reach h3 img{
+	width: 30px;
+	margin-right: 5px; 
+}
+
+.Reach h2{
+	font-size: 28px;
+	color: #fff;	
+}
+.Reach p{
+	font-size: 11px;
+	color: #98a5d9;
+	margin-top: 15px;
+}
+
+.Contact-us{
+	text-align: center;
+}
+
+.Contact-us span img{
+	width: 67px;
+}
+
+.Contact-us h2{
+	font-size: 23px;
+	color: #fff;
+	margin-top: 15px;
+}
+
+.Contact-us a{
+	text-decoration: none;
+	font-size: 12px;
+	color: #fff;
+	background: #0c2175;
+	padding: 8px 15px;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.Contact-us a img{
+	width: 24px;
+	margin-left: 48px;
+}
+/*-- Reach area end --*/
+
+/*-- footer area start --*/
+.footer{
+	background: url(../img/bac-footer.png);
+	padding: 80px 0;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+
+}
+
+.Joomla img{
+	width: 200px;
+	margin-top: -125px;
+}
+
+.Joomla p{
+	font-size: 10px;
+	color: #4c5a6b;
+	margin-top: 20px;
+}
+
+.Head-Studio{
+	display: flex;
+	margin-top: 50px;
+}
+
+.Head h3{
+	font-size: 14px;
+	color: #1e2329;
+	text-transform: uppercase;
+}
+
+.Head h3 img{
+	width: 35px;
+	margin-right: 5px;
+}
+
+.Head p{
+	font-size: 10px;
+	color: #4d5b6c;
+	line-height: 20px;
+}
+
+.Studio{
+	margin-left: 50px;
+}
+
+.Studio h3{
+	font-size: 15px;
+	color: #1e2329;
+	text-transform: uppercase;
+}
+
+.Studio h3 img{
+	width: 35px;
+	margin-right: 5px;
+}
+
+.Studio p{
+	font-size: 10px;
+	color: #4d5b6c;
+	line-height: 20px;
+}
+
+.Resources h2{
+	font-size: 16px;
+	color: #1e2329;
+	text-align: center;
+}
+
+.Resources ul{
+	list-style-type: none;
+	margin-top: 22px;
+}
+
+.Resources ul li{
+	margin-top: 5px;
+}
+
+.Resources ul li a{
+	text-decoration: none;
+	color: #4d5b6c;
+	font-size: 11px;
+	margin-left: 22px;
+}
+
+.Company h2{
+	font-size: 16px;
+	color: #1e2329;
+	text-align: center;
+}
+
+.Company ul{
+	list-style-type: none;
+	margin-top: 22px;
+}
+
+.Company ul li{
+	margin-top: 5px;
+}
+
+.Company ul li a{
+	text-decoration: none;
+	color: #4d5b6c;
+	font-size: 12px;
+	margin-left: 22px;
+}
+
+.Social h2{
+	font-size: 16px;
+	color: #1e2329;
+	text-align: center;
+}
+
+.Social ul{
+	list-style-type: none;
+	margin-top: 22px;
+}
+
+.Social ul li{
+	margin-top: 5px;
+}
+
+.Social ul li a{
+	text-decoration: none;
+	color: #4d5b6c;
+	font-size: 12px;
+	margin-left: 35px;
+}
+/*-- footer area end --*/
+
+/*-- copyright area start --*/
+.copyright{
+	background: url(../img/copyright.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.copyright-wrapper{
+	border-top: 2px dotted #b7bdc0;
+	padding: 20px 0;
+}
+.Onepager h2{
+	font-size: 13px;
+	color: #0c2175;
+}
+
+.Terms{
+	text-align: right;
+}
+
+.Terms h2{
+	font-size: 13px;
+	display: inline-block;
+	margin-right: 15px;
+	color: #4c5a6b;
+}
+
+.Terms span{
+	color: #6f77a8;
+}
+/*-- copyright area end --*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
